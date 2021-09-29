@@ -4,7 +4,7 @@ a fun new project on world weather analysis
 
 ## Project Overview
 
-V. Isualize has given us a brand-new assignment. Using our Python skills and knowledge of Pandas, we’ll create a summary DataFrame of the ride-sharing data by city type. Then, using Pandas and Matplotlib, we’ll create a multiple-line graph that shows the total weekly fares for each city type. Finally, we’ll submit a written report that summarizes how the data differs by city type and how those differences can be used by decision-makers at PyBer.
+Jack loves the PlanMyTrip app. Beta testers love it too. And, as with any new product, they’ve recommended a few changes to take the app to the next level. Specifically, they recommend adding the weather description to the weather data you’ve already retrieved in this module. Then, you'll have the beta testers use input statements to filter the data for their weather preferences, which will be used to identify potential travel destinations and nearby hotels. From the list of potential travel destinations, the beta tester will choose four cities to create a travel itinerary. Finally, using the Google Maps Directions API, you will create a travel route between the four cities as well as a marker layer map.
 
 ## Resources
 
