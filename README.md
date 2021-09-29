@@ -23,8 +23,10 @@ V. Isualize has given us a brand-new assignment. Using our Python skills and kno
 
 ![Cities Weather (png)](./Vacation_Search/WeatherPy_vacation_map.png)
     - [Cities Weather (png)](./Vacation_Search/WeatherPy_vacation_map.png)
-![Vaction Weather  (png)](./Vacation Itinerary/WeatherPy_travel_map.png)
-    - [Vaction Weather  (png)](./Vacation Itinerary/WeatherPy_travel_map.png)
-![Vaction Route  (png)](./Vacation Itinerary/WeatherPy_travel_map_markers.png)
-    - [Vaction Route  (png)](./Vacation Itinerary/WeatherPy_travel_map_markers.png)
+    
+![Vaction Weather  (png)](./Vacation_Itinerary/WeatherPy_travel_map.png)
+    - [Vaction Weather  (png)](./Vacation_Itinerary/WeatherPy_travel_map.png)
+    
+![Vaction Route  (png)](./Vacation_Itinerary/WeatherPy_travel_map_markers.png)
+    - [Vaction Route  (png)](./Vacation_Itinerary/WeatherPy_travel_map_markers.png)
     
