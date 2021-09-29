@@ -7,8 +7,8 @@ V. Isualize has given us a brand-new assignment. Using our Python skills and kno
 
 ## Resources
 - Data Source:
-   - [city weather data (csv)](../Weather_Database/weatherPy_database.csv)
-   - [city hotel data (csv)](../Vacation_Search/WeatherPy_vacation.csv)
+   - [city weather data (csv)](./Weather_Database/weatherPy_database.csv)
+   - [city hotel data (csv)](./Vacation_Search/WeatherPy_vacation.csv)
 - Software:
    - Python 3.7.6
    - Jupyter Notebook 6.3.0
@@ -18,10 +18,10 @@ V. Isualize has given us a brand-new assignment. Using our Python skills and kno
     - Weather (openweathermap)
    
 ## Output
-![Cities Weather (png)](../Vacation_Search/WeatherPy_vacation_map.png)
-    - [Cities Weather (png)](../Vacation_Search/WeatherPy_vacation_map.png)
-![Vaction Weather  (png)](../Vacation_Itinerary/WeatherPy_travel_map.png)
-    - [Vaction Weather  (png)](../Vacation_Itinerary/WeatherPy_travel_map.png)
-![Vaction Route  (png)](../Vacation_Itinerary/WeatherPy_travel_map_markers.png)
-    - [Vaction Route  (png)](../Vacation_Itinerary/WeatherPy_travel_map_markers.png)
+![Cities Weather (png)](./Vacation_Search/WeatherPy_vacation_map.png)
+    - [Cities Weather (png)](./Vacation_Search/WeatherPy_vacation_map.png)
+![Vaction Weather  (png)](./Vacation_Itinerary/WeatherPy_travel_map.png)
+    - [Vaction Weather  (png)](./Vacation_Itinerary/WeatherPy_travel_map.png)
+![Vaction Route  (png)](./Vacation_Itinerary/WeatherPy_travel_map_markers.png)
+    - [Vaction Route  (png)](./Vacation_Itinerary/WeatherPy_travel_map_markers.png)
     
