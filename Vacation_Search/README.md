@@ -1,2 +1,5 @@
-# world_weather_analysis_UT_DATA
-a fun new project on world weather analysis
+# Weather Search
+
+Retrieve customer weather preferences from user inputs.
+Use those preferences to identify potential travel destinations and nearby hotels.
+Show those destinations on a marker layer map with pop-up markers.

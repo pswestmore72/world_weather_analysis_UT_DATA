@@ -1,2 +1,7 @@
-# world_weather_analysis_UT_DATA
-a fun new project on world weather analysis
+# Weather Data
+
+
+- Generate a set of 2,000 random latitudes and longitudes
+    - Retrieve the nearest city
+    - Retrieve the current weather description for each city.
+    - create a new DataFrame containing the updated weather data.

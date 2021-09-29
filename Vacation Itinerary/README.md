@@ -1,2 +1,4 @@
-# world_weather_analysis_UT_DATA
-a fun new project on world weather analysis
+# World Weather Itinerary
+
+Create a travel itinerary that shows the route between four cities chosen from the customer’s possible travel destinations.
+Then, create a marker layer map with a pop-up marker for each city on the itinerary.
